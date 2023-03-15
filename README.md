@@ -1,5 +1,5 @@
 # Hi there 👋
-I've been teaching myself web development for about a year now. I'm hoping to start a course this summer and change career byt autumn.
+I've been teaching myself web development for about a year now. I'm hoping to start a course this summer and change career by autumn.
 
 ### What do I do? Glad you asked... 😄
 
