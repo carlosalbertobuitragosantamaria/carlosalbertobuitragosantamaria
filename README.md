@@ -9,7 +9,7 @@ I've been teaching myself web development for about a year now. I'm hoping to st
 - And before that, I was a sailor. :sailboat:
 
 ### Fun Fact
-I speak Spanish. I know that's not funny, but it's useful.
+I speak Spanish. I know. That's not funny, but it's useful.
 
 I also know some Mandarin, Nepalese, Greek and Hebrew, but please don't test me, just trust me :wink:
 
