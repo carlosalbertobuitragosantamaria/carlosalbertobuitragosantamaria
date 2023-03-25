@@ -13,7 +13,7 @@ Glad you asked... 😄
 ### Fun Fact
 I speak Spanish. I know. That's not funny, but it's useful.
 
-I also know some Mandarin, Nepalese, Greek and Hebrew, but please don't test me, just trust me :wink:
+I also know some Mandarin, Nepalese, Greek and Hebrew, but please don't test me, trust me :wink:
 
 
 <!--
