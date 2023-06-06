@@ -1,5 +1,6 @@
 # Hi there 👋
-I've been teaching myself web development for about a year now. I'm hoping to start a course this summer and change career by autumn.
+I'd been teaching myself web development for about a year now. 
+I am now studying software developoment with [Founders and Coders](https://github.com/foundersandcoders) 💻
 
 ### What do I do? 
 
