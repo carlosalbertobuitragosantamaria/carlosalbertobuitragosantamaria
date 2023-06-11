@@ -1,4 +1,4 @@
-![Imgur](https://i.imgur.com/mEsM3dL.jpg)
+
 # Hi there 👋
 I'd been teaching myself web development for about a year now. 
 I am now studying software developoment with [Founders and Coders](https://github.com/foundersandcoders) 💻
