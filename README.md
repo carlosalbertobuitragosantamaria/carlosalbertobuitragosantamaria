@@ -8,8 +8,8 @@ Prior to that I'd been teaching myself web development for about a year.
 
 
 - I operate a forklift. :construction:
-- Before that, I was a yoga instructor (I still am :wink:). :muscle:
-- And before that, I was a paid musician. :guitar:
+- I am also a yoga instructor  🧘
+- Before that, I was a paid musician. :guitar:
 - And before that, I was a sailor. :sailboat:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosbuitragosan&show_icons=true&theme=tokyonight&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats&show_owner=false)
