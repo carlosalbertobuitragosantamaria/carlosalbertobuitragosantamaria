@@ -4,6 +4,7 @@
 # Hi there 👋
  
 I am studying Software Developoment with [Founders and Coders](https://github.com/foundersandcoders) 💻
+
 Prior to that I'd been teaching myself web development for about a year.
 
 
