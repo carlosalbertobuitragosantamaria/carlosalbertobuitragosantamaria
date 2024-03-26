@@ -2,7 +2,7 @@
 
 I've been teaching myself web development since 2021.
 
-I completed a 3-months bootcamp in Software Developoment with [Founders and Coders](https://github.com/foundersandcoders) 💻
+💻 &nbsp;&nbsp;&nbsp; I completed a 3-months bootcamp in Software Developoment with [Founders and Coders](https://github.com/foundersandcoders) in the summer of 2023 
 ***
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
