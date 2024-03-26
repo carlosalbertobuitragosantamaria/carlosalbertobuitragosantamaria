@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=Welcome+🙂)](https://git.io/typing-svg)
 
-I am studying Software Developoment with [Founders and Coders](https://github.com/foundersandcoders) 💻
-
-Prior to that I'd been teaching myself web development for about a year.
-
+I've been teaching myself web development since 2021.
+I completed a 3-months bootcamp in Software Developoment with [Founders and Coders](https://github.com/foundersandcoders) 💻
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosbuitragosan&show_icons=true&theme=tokyonight&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats&show_owner=false)
