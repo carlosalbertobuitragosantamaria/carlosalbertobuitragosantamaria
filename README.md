@@ -27,5 +27,3 @@ I've been teaching myself web development since 2021.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlosbuitragosan&theme=tokyonight&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
 ***
 
-
-👈  👈
